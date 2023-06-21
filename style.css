@@ -30,10 +30,10 @@ h1{content: url(./images/logo.svg);}
     margin: 30px 10px 7px 0;
     border-radius: 10px;
 }
-.icon-1 i{content: url(./images/icon-document.svg);padding: 12px 16px;}
-.icon-2 i{content: url(./images/icon-folder.svg); padding: 14px 14px;}
-.icon-3 i{content: url(./images/icon-upload.svg); padding: 16px 14px;}
-.top,.bottem{background-color: var(--Dark-Blue);display: inline-block;}
+.icon-1 i{content: url(./images/icon-document.svg);padding: 12px 16px; cursor: pointer;}
+.icon-2 i{content: url(./images/icon-folder.svg); padding: 14px 14px; cursor: pointer;}
+.icon-3 i{content: url(./images/icon-upload.svg); padding: 16px 14px; cursor: pointer;}
+.top,.bottem{background-color: var(--Dark-Blue);display: inline-block; cursor: pointer;}
 .top{
     padding: 40px 35px;
     width: 30%;
